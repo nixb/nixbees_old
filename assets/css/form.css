@@ -241,7 +241,7 @@ ol, ul {
 	padding-top:3px;
 	}
 .zf-name .zf-tempContDiv input[type="text"] {
-	width:95%;
+	width:90%;
 	}
 
 .zf-phone .zf-tempContDiv span label, .zf-date .zf-tempContDiv span label, .zf-time .zf-tempContDiv span label, .zf-address .zf-tempContDiv span label, .zf-geolocation .zf-tempContDiv span label, .zf-name .zf-tempContDiv span label{ 
